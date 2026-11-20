@@ -1,0 +1,12 @@
+{
+  "name": "chris-invest",
+  "version": "1.0.0",
+  "description": "Chris Investment - Seeta Mukono Uganda",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
